@@ -1,0 +1,19 @@
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	color: black;
+}
+
+#id1{
+	color: black;
+}
+
+.f2s{
+	display: block;
+	margin: auto;
+}
+.f3s{
+	width: 410: auto;
+	height: 280: auto;
+}
